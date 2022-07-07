@@ -8,7 +8,7 @@ Esse é um projeto para criar uma landing page, comum na área de Marketing e Si
 ## Linguagens Utilizadas
 Para esse projeto, utilizei HTML e CSS apenas, é um projeto simples sem questões de responsividade e conceitos avançados desses sistemas.
 
-## Resultado
+## Resultado do Projeto
 ![Screenshot](Panorama.png)
 
 
