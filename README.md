@@ -11,7 +11,7 @@ Esse é um projeto para criar uma landing page, comum na área de Marketing e Si
 Para esse projeto, utilizei HTML e CSS apenas, é um projeto simples sem questões de responsividade e conceitos avançados desses sistemas.
 
 ## Resultado
-![alt text](https://raw.githubusercontent.com/riguedes/Landing-Page/branch/path/to/Panorama.png)
+![Screenshot](Panorama.png)
 
 
 
